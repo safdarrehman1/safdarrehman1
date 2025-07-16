@@ -10,7 +10,7 @@ My core stack includes HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScrip
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/safdarrehman1/](https://www.linkedin.com/in/safdar-rehman-910440247/)" target="blank">
+  <a href="https://www.linkedin.com/in/safdarrehman1/](https://www.linkedin.com/in/safdar-rehman-910440247/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="safdarrehman1" height="45" width="45" />
   </a>
   <a href="https://www.instagram.com/codewithsafdar/" target="blank">
