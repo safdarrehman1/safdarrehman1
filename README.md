@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safdar Rehman</h1>
-<h3 align="center">A passionate Front-End Web Developer from Pakistan</h3>
+<h3 align="center">A passionate Front-End/React Developer from Pakistan</h3>
 
 <p align="center">
 With 2.5 years of hands-on experience in building and designing responsive, user-friendly web interfaces, I specialize in crafting high-performance front-end applications using modern web technologies. <br><br>
