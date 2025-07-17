@@ -30,9 +30,7 @@ My core stack includes HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScrip
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safdarrehman1&theme=dark)
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=safdarrehman1"/>
-</a>
+<a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=safdarrehman1&theme=dark"/> </a>
 
 ---
 
