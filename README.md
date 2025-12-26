@@ -1,8 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Safdar+Rehman;A+Full+Stack+Developer+🚀;Welcome+to+my+profile!&center=true&width=500&height=80&color=25c2a0&vCenter=true&size=35" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi,%20I'm%20Safdar!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20CS%20Student&descAlignY=65&descAlign=62" width="100%"/>
+</div>
 
 <h1 align="center">Hi there, I'm Safdar Rehman 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | React.js & Next.js Enthusiast</h3>
