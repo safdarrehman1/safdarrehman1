@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Student (Batch '23-'27)** passionate about building scalable web applications. I specialize in modern JavaScript frameworks and professional software development practices. I love turning complex problems into simple, beautiful, and intuitive designs using tools like **Cursor** and **ShadCN**.
+I am a **Computer Science Student (Batch '22-'26)** passionate about building scalable web applications. I specialize in modern JavaScript frameworks and professional software development practices. I love turning complex problems into simple, beautiful, and intuitive designs using tools like **Cursor** and **ShadCN**.
 
 - 🔭 **I’m currently working on:** - **"Intelligent Hiring & Skills Gap Analysis"** (Final Year Project)
   - **HealthCheck** (Medical appointment & diagnosis platform)
