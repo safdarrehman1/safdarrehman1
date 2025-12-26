@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Safdar%20Rehman&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Safdar%20Rehman&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Safdar Rehman 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | React.js Enthusiast | Computer Science Student</h3>
+<h3 align="center">🚀 Full Stack Developer | React.js & Next.js Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:safdarrehmaninfo123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/safdar-rehman-910440247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -18,14 +18,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Student (Batch '23-'27)** passionate about building scalable web applications. I specialize in modern JavaScript frameworks and professional software development practices. I love turning complex problems into simple, beautiful, and intuitive designs.
+I am a **Computer Science Student (Batch '23-'27)** passionate about building scalable web applications. I specialize in modern JavaScript frameworks and professional software development practices. I love turning complex problems into simple, beautiful, and intuitive designs using tools like **Cursor** and **ShadCN**.
 
-- 🔭 **I’m currently working on:** - **"Intelligent Hiring & Skills Gap Analysis"** (My Final Year Project)
+- 🔭 **I’m currently working on:** - **"Intelligent Hiring & Skills Gap Analysis"** (Final Year Project)
   - **HealthCheck** (Medical appointment & diagnosis platform)
   - **FinTekPay** (Fintech landing page & services)
 
-- 🌱 **I’m currently mastering:** Advanced React Hooks, System Design, and API Architecture.
-- 👯 **I’m looking to collaborate on:** Open Source React.js and Node.js projects.
+- 🌱 **I’m currently mastering:** Advanced System Design, Next.js Architecture, and AI integration.
 - ⚡ **Fun fact:** I can debug code in my sleep (literally!).
 
 ---
@@ -34,9 +33,9 @@ I am a **Computer Science Student (Batch '23-'27)** passionate about building sc
 
 <div align="center">
 
-| Frontend | Backend & Database | Tools & Others |
+| **Frontend** | **Backend & Database** | **Tools & Editors** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react" width="50"/> <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> <img src="https://skillicons.dev/icons?i=html" width="50"/> <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> <img src="https://skillicons.dev/icons?i=express" width="50"/> <img src="https://skillicons.dev/icons?i=mysql" width="50"/> <img src="https://skillicons.dev/icons?i=sequelize" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> <img src="https://skillicons.dev/icons?i=github" width="50"/> <img src="https://skillicons.dev/icons?i=vscode" width="50"/> <img src="https://skillicons.dev/icons?i=postman" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,html,css" /> <br/> <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> <br/> <img src="https://img.shields.io/badge/Cursor-Editor-black?style=for-the-badge&logo=cursor&logoColor=white" /> |
 
 </div>
 
@@ -45,14 +44,19 @@ I am a **Computer Science Student (Batch '23-'27)** passionate about building sc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safdarrehman1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdarrehman1&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <a href="https://github.com/safdarrehman1">
+  <img src="https://github-readme-stats.vercel.app/api?username=safdarrehman1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="safdarrehman1 stats" />
+  </a>
+  
+  <a href="https://github.com/safdarrehman1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdarrehman1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="safdarrehman1 languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safdarrehman1&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safdarrehman1&theme=tokyonight&hide_border=true" alt="safdarrehman1 streak" />
 </div>
 
 ---
