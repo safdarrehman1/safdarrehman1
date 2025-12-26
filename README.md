@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Safdar%20Rehman&descAlignY=51&descAlign=62" width="100%"/>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Safdar+Rehman;A+Full+Stack+Developer+🚀;Welcome+to+my+profile!&center=true&width=500&height=80&color=25c2a0&vCenter=true&size=35" alt="Typing SVG" />
+  </a>
+</h1>
 
 <h1 align="center">Hi there, I'm Safdar Rehman 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | React.js & Next.js Enthusiast</h3>
